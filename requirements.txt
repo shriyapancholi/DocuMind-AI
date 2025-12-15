@@ -1,5 +1,9 @@
-langchain
+streamlit
+langchain-chroma
+langchain-openai
 langchain-community
+langchain-text-splitters
 pypdf
 chromadb
 tiktoken
+pysqlite3-binary
